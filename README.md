@@ -14,7 +14,7 @@ Dedicated cybersecurity professional with a Bachelor's degree in Information Tec
 
 Email: salahabd.748392@gmail.com
 
-Phone: +967 779680748
+
 
 
 ---
