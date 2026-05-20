@@ -1,10 +1,10 @@
 # Salah Abdullah Mohmmed Abd
 
-Penetration Testing Specialist | Bug Bounty Hunter | Cybersecurity Professional
+Penetration Testing Specialist | Bug Bounty Hunter 
 
 ---
 
-## Professional Summary
+## Summary
 
 Dedicated cybersecurity professional with a Bachelor's degree in Information Technology, specializing in penetration testing and vulnerability assessment. Experienced bug bounty hunter with a strong commitment to identifying and mitigating security vulnerabilities in web applications, networks, and systems. Continuously expanding expertise through professional certifications and advanced security training.
 
@@ -22,11 +22,11 @@ Phone: +967 779680748
 ## Education
 
 Bachelor of Science in Information Technology
-Focus: Cybersecurity and Network Security
+Focus: Cybersecurity and Web app security 
 
 ---
 
-## Professional Certifications & Training
+## Certifications & Training
 
 Currently Preparing For:
 
@@ -43,7 +43,9 @@ Currently Preparing For:
 
 - Network penetration testing and exploitation
 - Web application security testing and vulnerability assessment
+- Broken Access Control (A01): IDOR, BOLA, and Privilege Escalation.
 - SQL injection testing and remediation
+- Security Misconfiguration (A05): Cloud misconfigurations and Default Credentials.
 - Cross-site scripting (XSS) identification and analysis
 - Cross-site request forgery (CSRF) testing
 - Authentication and authorization bypass techniques
@@ -66,12 +68,13 @@ Currently Preparing For:
 - OpenVAS (Vulnerability scanning)
 - Nikto (Web server scanning)
 - Aircrack-ng (Wireless security testing)
+- And more ....
 
 ### Core Technical Skills
 
-- Network protocols and infrastructure analysis (TCP/IP, DNS, HTTP/HTTPS)
-- Operating systems (Linux, Windows, macOS)
 - Scripting and automation (Bash, Python)
+- Operating systems (Linux, Windows, macOS)
+- Network protocols and infrastructure analysis (TCP/IP, DNS, HTTP/HTTPS)
 - Database security and manipulation
 - Cryptography and encryption protocols
 - Cloud security assessment (AWS, Azure)
@@ -128,12 +131,6 @@ Penetration Testing Practitioner
 
 - Arabic (Native)
 - English (Professional Working Proficiency)
-
----
-
-## Disclaimer
-
-Security testing and penetration testing activities are conducted only with proper authorization and in compliance with applicable laws and regulations. All skills are applied ethically and responsibly for defensive and authorized testing purposes only.
 
 ---
 
